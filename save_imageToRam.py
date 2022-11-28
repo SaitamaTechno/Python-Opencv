@@ -1,3 +1,7 @@
+"""
+I wrote this code making some array progress until I know cv2.imencode() function.
+This code is too slow. Dont use this code. Instead, use the other python script named imencode.
+"""
 import cv2
 import numpy as np
 import time
